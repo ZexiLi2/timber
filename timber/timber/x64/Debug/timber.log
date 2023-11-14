@@ -1,0 +1,26 @@
+﻿  timber.cpp
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(31,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(99,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(99,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(106,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(106,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(113,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(113,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(134,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(135,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(135,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(224,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(224,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(234,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(234,24): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(344,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(378,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(409,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(475,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(478,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(501,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(504,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(527,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(530,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\timber\timber\timber.cpp(556,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  timber.vcxproj -> E:\AluCiclesGS1\zexilili\cplusplus\timber\x64\Debug\timber.exe
